@@ -1,15 +1,10 @@
 ![image](https://github.com/user-attachments/assets/82079b63-f09c-4f4f-8cec-1bcf3a6a9e75)
 ## Hi, I'm Oluwafisayo 👋
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied Computer and Information Science at the FLorida A & M University, USA
-🎨 Writing about Computer Science, tech, and productivity on [Medium](https://medium.com/@oluwafisayotheophilus)
-💭 Currently learning about data analytics and Cybersecurity!
-
-[![Ayofisayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayofisayo)](https://github.com/ayofisayo/github-readme-stats)
 
 # 💫 About Me:
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>💬 Ask me anything about Data Analytics/Data Scientist/Machine Learning<br><br>📫 How to reach me oluwafisayotheophilus@gmail.com<br><br>👯 I’m looking to collaborate on a Data cleaning Project<br><br>📝 I regularly write articles on https://medium.com/@oluwafisayotheophilus<br><br>⚡ Fun fact 😄 If i am not coding, I am either reading a book or watching insightful videos on YouTube<br/> 💭 Currently learning about data analytics and Cybersecurity!
 
+[![Ayofisayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayofisayo)](https://github.com/ayofisayo/github-readme-stats)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oluwafisayo-theophilus) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@oluwafisayotheophilus) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oluwafisayotheophilus@gmail.com) 
