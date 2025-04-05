@@ -2,7 +2,7 @@
 # Hi, I'm Oluwafisayo 👋
 
 ## 💫 About Me:
-[Oluwafisayo Theophilus](https://www.linkedin.com/in/oluwafisayo-theophilus/) is a data and Cybersecurity Analyst. With expertise ranging from preprocessing, analytics, reporting, and data wrangling to using clean data to create scalable machine learning models that save your business money and time<br/>
+[Oluwafisayo Theophilus](https://www.linkedin.com/in/oluwafisayo-theophilus/) is a Data and Cybersecurity Analyst. With expertise ranging from preprocessing, analytics, reporting, and data wrangling to using clean data to create scalable machine learning models that save your business money and time<br><br>
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br><br>💬 Ask me anything about Data Analytics/Data Scientist/Machine Learning<br><br>📫 How to reach me oluwafisayotheophilus@gmail.com<br><br>👯 I’m looking to collaborate on a Data cleaning Project<br><br>📝 I regularly write articles on https://medium.com/@oluwafisayotheophilus<br><br>⚡ Fun fact 😄 If i am not coding, I am either reading a book or watching insightful videos on YouTube<br><br>💭 Currently learning about data analytics and Cybersecurity!
 
 [![Ayofisayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayofisayo)](https://github.com/ayofisayo/github-readme-stats)
