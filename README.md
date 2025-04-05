@@ -4,8 +4,9 @@
 👩🏻‍🎓 Studied Computer and Information Science at the FLorida A & M University, USA
 🎨 Writing about Computer Science, tech, and productivity on [Medium](https://medium.com/@oluwafisayotheophilus)
 💭 Currently learning about data analytics and Cybersecurity!
+
 [![Ayofisayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayofisayo)](https://github.com/ayofisayo/github-readme-stats)
-## Hi there 👋
+
 
 <!--
 **Ayofisayo/Ayofisayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
